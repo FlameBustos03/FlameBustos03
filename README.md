@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
  🔭 Building software & tech projects<br>🧑‍💻 Exploring AI, C++ & software development<br>🌱 Always learning something new<br>🤝 Open to       collaborating on interesting projects<br>💬 Ask me about tech, programming & entrepreneurship<br>⚡ Fun fact: I’m usually working on my next idea
 
 
